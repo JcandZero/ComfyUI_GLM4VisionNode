@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_glm4node"
+description = "GLM4 Vision Integration"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["zhipuai"]
+
+[project.urls]
+Repository = "https://github.com/JcandZero/ComfyUI_GLM4Node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_GLM4Node"
+Icon = ""
